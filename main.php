@@ -51,7 +51,7 @@ class dbConn
 dbConn::connect();
 
 //Search for id
-dbConn::search(1,2);
+dbConn::search(1);
 
 //Insert a user
 //dbConn::insert("p@w.de", "test");
